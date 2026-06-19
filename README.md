@@ -49,11 +49,10 @@ It helps manage students, books, issue/return operations, and maintains library 
 
 ## 📸 Screenshots
 
-- Login Page
--<img width="346" height="538" alt="Screenshot 2026-06-19 125529" src="https://github.com/user-attachments/assets/0eefd75d-c314-492e-961c-c5af788d959c" />
-- Dashboard
-- <img width="1920" height="1080" alt="Screenshot 2026-06-19 125709" src="https://github.com/user-attachments/assets/7bceaa61-a3c2-4ec6-b50c-ec699d32223c" />
-- Add Student
-- <img width="632" height="523" alt="Screenshot 2026-06-19 125758" src="https://github.com/user-attachments/assets/2bf2c035-03df-4538-b53d-aea124ce2832" />
-- Add Book
-- <img width="631" height="521" alt="Screenshot 2026-06-19 125728" src="https://github.com/user-attachments/assets/b2f654b1-8e64-439d-a378-9f2431ca2ee6" />
+- Login Page<img width="346" height="538" alt="Screenshot 2026-06-19 125529" src="https://github.com/user-attachments/assets/0eefd75d-c314-492e-961c-c5af788d959c" />
+
+- Dashboard<img width="1920" height="1080" alt="Screenshot 2026-06-19 125709" src="https://github.com/user-attachments/assets/7bceaa61-a3c2-4ec6-b50c-ec699d32223c" />
+
+- Add Student<img width="632" height="523" alt="Screenshot 2026-06-19 125758" src="https://github.com/user-attachments/assets/2bf2c035-03df-4538-b53d-aea124ce2832" />
+
+- Add Book<img width="631" height="521" alt="Screenshot 2026-06-19 125728" src="https://github.com/user-attachments/assets/b2f654b1-8e64-439d-a378-9f2431ca2ee6" />
